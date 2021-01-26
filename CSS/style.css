@@ -190,6 +190,10 @@ section {
 	border: 1px solid #fff;
 }
 
+.logo_img {
+	width: 100px;
+}
+
 .slide_img {
 	max-width: 100%;
 }
