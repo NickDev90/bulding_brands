@@ -258,7 +258,8 @@ section {
 }
 
 .main_btn:hover {
-	font-weight: bold;
+	color: #000;
+	background-color: #fff;
 }
 
 .burger {
@@ -411,10 +412,11 @@ section {
 	letter-spacing: 2px;
 	border: 1px solid #000;
 	margin-top: 100px;
+	transition: all 0.3s ease 0s;
 }
 
 .info_btn:hover {
-	font-weight: bold;
+	opacity: .6;
 }
 
 .image_item {
@@ -563,7 +565,7 @@ section {
 }
 
 .foot_btn:hover {
-	background-color: #b0ae1d;
+	background-color: #cfce02;
 }
 
 .last_row {
